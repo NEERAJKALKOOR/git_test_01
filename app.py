@@ -16,13 +16,13 @@ def calculate_grade(average):
 
 
 def main():
-    print("===== Student Grade Calculator =====")
+    print("===== Student Grade Calculator v2=====")
 
     name = input("Enter student name: ")
 
     marks = []
 
-    for i in range(3):
+    for i in range(5):
         mark = float(input(f"Enter marks for subject {i + 1}: "))
         marks.append(mark)
 
