@@ -20,3 +20,10 @@ and determines the corresponding grade.
 
 ```bash
 python app.py
+
+
+## Git Workflow
+
+This project demonstrates Git initialization,
+commits, branching, merging, reverting,
+resetting, pushing and pulling.
